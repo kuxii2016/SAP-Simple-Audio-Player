@@ -21,10 +21,6 @@ SAP focuses on simplicity, performance, and ease of use. The application provide
 - C#
 - WPF (.NET)
 
-## 📸 Screenshots
-
-> Add screenshots here.
-
 ## 🚀 Getting Started
 
 1. Download the latest release.
