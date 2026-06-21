@@ -1,0 +1,102 @@
+=======
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.userprefs
+*.[Cc]ache
+*.dbmdl
+*.jfm
+*.csproj.user
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# NuGet
+packages/
+*.nupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+*.nuget.props
+*.nuget.targets
+
+# Visual Studio
+.vs/
+*.sln.ide/
+*.sln.docstates
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Test results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.trx
+*.coverage
+
+# Publishing
+publish/
+pub/
+*.Publish.xml
+*.pubxml
+
+# Others
+*.log
+*.tmp
+*.swp
+*.bak
+*.old
+*_i.c
+*_p.c
+*_i.h
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*_wpftmp.csproj
+npm-debug.log
+yarn-error.log
+
+# Roslyn
+[Rr]oslyn/[Bb]inaries/
+
+# BenchmarkDotNet
+[Bb]enchmark[Dd]otNet.[Aa]rtifacts/
+
+# App config
+appsettings.Development.json
+>>>>>>> Stashed changes
+WeatherServer.rar
